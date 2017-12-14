@@ -1,0 +1,2 @@
+// Create new laravel project with laravel framework
+$ composer create-project laravel/laravel quickstart --prefer-dist
