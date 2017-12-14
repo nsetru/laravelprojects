@@ -1,2 +1,6 @@
 // Create new laravel project with laravel framework
 $ composer create-project laravel/laravel quickstart --prefer-dist
+
+// Version number of laravel framework
+$ php artisan --version
+
